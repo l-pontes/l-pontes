@@ -16,7 +16,5 @@
 
 ---
 
-⚡ **More About Me** I'm a passionate gamer and love discussing anime, movies, and series. When I'm not coding, I'm probably gaming or binge-watching something new!
-
-
+⚡ **More About Me** I'm a passionate gamer and love discussing anime, movies, series and pop culture in general.
 
