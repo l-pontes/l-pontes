@@ -7,7 +7,7 @@
 🔧 My skills include:
 
 - **Programming:** Basic knowledge in various languages, always striving to improve and expand my skills.
-- **Cybersecurity:** Focus on information security, ethical hacking, and developing secure scripts.
+- **Cybersecurity:** Focus on information security, ethical hacking, and hardwarehacking.
 - **Linux:** Customization and automation in Linux distributions, especially with Arch Linux.
 - **IT:** Experience in hardware, software, and technical solutions, with a keen eye for detail and logical thinking.
 
